@@ -20,9 +20,9 @@
     "w-gl": "^0.21.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.0.0",
+    "@vitejs/plugin-vue": "^5.2.3",
     "eslint": "^8.34.0",
     "eslint-plugin-vue": "^9.9.0",
-    "vite": "^4.1.4"
+    "vite": "^6.2.2"
   }
 }

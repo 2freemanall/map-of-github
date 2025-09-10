@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "dompurify": "^3.0.2",
+    "dompurify": "^3.2.4",
     "fuzzysort": "^1.2.0",
     "maplibre-gl": "^2.4.0",
     "marked": "^4.3.0",
@@ -20,9 +20,9 @@
     "w-gl": "^0.21.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.0.0",
+    "@vitejs/plugin-vue": "^4.6.2",
     "eslint": "^8.34.0",
     "eslint-plugin-vue": "^9.9.0",
-    "vite": "^4.1.4"
+    "vite": "^7.1.5"
   }
 }
